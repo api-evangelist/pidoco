@@ -1,0 +1,108 @@
+{
+    "name": "Pidoco",
+    "description": "Create clickable wireframes for websites and mobile apps with our online wireframing tool. Collaboration and exports for easy UI design and UX prototyping.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/893-pidoco.jpg",
+    "tags": [
+        "application prototypes",
+        "applications",
+        "creative",
+        "have api",
+        "interface",
+        "prototype"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/pidoco\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Pidoco",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/893-pidoco.jpg",
+            "humanURL": "https:\/\/pidoco.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/pidoco-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/pidoco-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/pidoco.com\/rabbit\/api\/"
+        },
+        {
+            "type": "Blog",
+            "url": "https:\/\/pidoco.com\/en\/blog"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.pidoco.com\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/pidoco-usability-suite"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/pidoco-usability-suite"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/pidoco.com\/en\/help\/api"
+        },
+        {
+            "type": "Email",
+            "url": "contact@pidoco.com"
+        },
+        {
+            "type": "Email",
+            "url": "service@pidoco.com"
+        },
+        {
+            "type": "Email",
+            "url": "kontakt@pidoco.com"
+        },
+        {
+            "type": "Email",
+            "url": "philipp@pidoco.com"
+        },
+        {
+            "type": "Email",
+            "url": "charles@pidoco.com"
+        },
+        {
+            "type": "Email",
+            "url": "silvan@pidoco.com"
+        },
+        {
+            "type": "Email",
+            "url": "tino@pidoco.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/pidoco"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/pidoco.com\/en\/pricing"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/pidoco"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/pidoco.com"
+        }
+    ]
+}
